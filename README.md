@@ -6,7 +6,7 @@ I’m a student and enthusiast in **Data Engineering, Data Analysis, and Artific
 🌱 Currently learning **Data Engineering, Data Analysis, Machine Learning, and AI**  
 🔭 Working on projects using **Python, Pandas, Scikit-learn, and supervised learning models**  
 ⚡ Fun fact: I enjoy turning complex data into clear and actionable insights  
-🎯 Goal: Become a **Data Scientist / Data Engineer**
+🎯 Goal: Become a reference in **Data Scientist / Data Engineer on my country**
 
 ---
 
