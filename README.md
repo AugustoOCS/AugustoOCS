@@ -87,4 +87,5 @@ Risk classification based on rainfall data and historical patterns
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me on LinkedIn.*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augustoocds/)
